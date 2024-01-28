@@ -8,6 +8,15 @@
 *.so
 *.dylib
 
+*~
+*.swp
+.project
+.idea
+*__pycache__*
+*.log
+*.bak*
+*.out
+
 # Test binary, built with `go test -c`
 *.test
 
